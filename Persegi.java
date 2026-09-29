@@ -19,6 +19,6 @@ public class Persegi extends Bentuk {
     }
 
     public void printInfo() {
-        System.out.println("Bujursangkar berwarna " + warna + ", luas = " + hitungLuas());
+        System.out.println("Persegi berwarna " + warna + ", luas = " + hitungLuas());
     }
 }
